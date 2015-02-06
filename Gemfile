@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'sinatra', '>= 0'
+gem 'haml', '>= 0'
+gem 'json', '>=0'
+gem 'rest-client', '>=0'
+gem 'pry'
+gem 'pry-byebug', '~>2.0.0'
